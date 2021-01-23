@@ -4,4 +4,4 @@ Creat genetic algorithm solver or ant colony optimization to find the shortest r
 # Run
 Download the file and open "TSP.sln" in Visual Studio.
 # Author
-Sasha Chen <enlen111408@gmail.com>
+Wan-Chen Chen <enlen111408@gmail.com>
